@@ -7,7 +7,7 @@ NSI project realized by [@BenoitObelia](https://github.com/BenoitObelia), [@Jule
 
 ## 📥 Install
 
-### Windows and Linux
+### Windows and inux
 
 Clone the repository
 ```bash
