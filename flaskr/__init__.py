@@ -6,7 +6,7 @@ from werkzeug.exceptions import HTTPException
 
 from flaskr.custom_logging import logging_config_dev, logging_config_prod
 
-
+  
 def create_app(test_config: dict = None) -> Flask:
     """Create and configure an instance of the Flask application."""
 
