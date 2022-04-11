@@ -1,5 +1,5 @@
 Flask==2.1.1
 pytest==7.1.1
 coverage==6.3.2
-Faker==13.2.0
+Faker==13.3.4
 requests==2.27.1
